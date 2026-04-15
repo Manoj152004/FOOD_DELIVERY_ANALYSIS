@@ -3,8 +3,8 @@
 End-to-end data analysis project on a food delivery dataset — covering raw data cleaning, SQL business analysis, Python EDA, and a 3-page interactive Power BI dashboard.
 
 ---
-https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=ef51de3c-3b7d-4e60-a91b-e607598f3278&pbi_source=mobile_android&groupObjectId=5fce47b5-fbea-4a9e-81c4-e71319fd5d85&reportObjectId=17fd01c7-e57e-4181-851a-19a1607ebc21&reportPage=d6290fbd43820473b84c&bookmarkGuid=cb73baa2-205e-45a8-a8b1-a20443b38a97&fullScreen=0<img width="1366" height="768" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/cae0e3c5-49dd-441c-bc09-a3c9841cb71b" />
-<img width="1366" height="768" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/5e8509fc-f62a-4aca-9063-df4272bffd1c" />
+https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=ef51de3c-3b7d-4e60-a91b-e607598f3278&pbi_source=mobile_android&groupObjectId=5fce47b5-fbea-4a9e-81c4-e71319fd5d85&reportObjectId=17fd01c7-e57e-4181-851a-19a1607ebc21&reportPage=d6290fbd43820473b84c&bookmarkGuid=cb73baa2-205e-45a8-a8b1-a20443b38a97&fullScreen=0
+<img width="1366" height="768" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/cae0e3c5-49dd-441c-bc09-a3c9841cb71b" />
 
 
 ## 📁 Repository Structure
